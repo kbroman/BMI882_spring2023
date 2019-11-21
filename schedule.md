@@ -28,3 +28,6 @@ description: Schedule and readings for BMI 882, Biomedical data science scholarl
 | 23 Apr      |    | **No class**
 | 28 Apr      |    | Citation statistics: [Adler et al. (2009)](https://projecteuclid.org/euclid.ss/1255009002)
 | 30 Apr      |    | Citation statistics: Discussion [A](https://doi.org/10.1214/09-STS285A), [B](https://doi.org/10.1214/09-STS285B), [C](https://doi.org/10.1214/09-STS285C), [D](https://doi.org/10.1214/09-STS285D), [Rejoinder](https://doi.org/10.1214/09-STS285REJ)
+
+
+_Add somewhere_: tSNE: [van der Maaten & Hinton (2008)](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)
