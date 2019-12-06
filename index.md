@@ -26,7 +26,7 @@ biomedical data.
 **Instructor**: [Karl Broman](https://kbroman.org),
 [2126 Genetics-Biotechnology Center](https://map.wisc.edu/s/2tie3nen)
 
-**Office hours**: Tu 9:30-10:30, Fr 11-12, or by appointment
+**Office hours**: Tu 9:30-10:30, Fr 10:30-11:30, or by appointment
 
 - [syllabus](syllabus.html)
 - [schedule](schedule.html)
