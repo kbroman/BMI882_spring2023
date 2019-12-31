@@ -7,7 +7,8 @@ description: Schedule and readings for BMI 882, Biomedical data science scholarl
 
 | Date    | &nbsp;&nbsp;&nbsp;&nbsp;   | Topic/Reading  |
 | :------ | -- | :----- |
-| 21,23 Jan   |    | 50 years of data science: [Donoho (2017)](https://doi.org/10.1080/10618600.2017.1384734) (w/ discussion: [![pdf logo](https://kbroman.org/pages/icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/blog/50_years_datasci_with_disc.pdf)) |
+| 21 Jan  |    |        | **No meeting**
+| 23 Jan  |    |        | Tidy data: [Wickham (2014)](https://doi.org/10.18637/jss.v059.i10)
 | 28,30 Jan   |    | The Duke Saga: [Baggerly & Coombes (2009)](https://projecteuclid.org/euclid.aoas/1267453942)
 | 4 Feb       |    | Fine-mapping of a gene: [Benzer (1955)](https://doi.org/10.1073/pnas.41.6.344)
 | 6 Feb       |    | Fine-mapping of a gene: [Benzer (1959)](https://doi.org/10.1073/pnas.45.11.1607)
@@ -30,4 +31,5 @@ description: Schedule and readings for BMI 882, Biomedical data science scholarl
 | 30 Apr      |    | Citation statistics: Discussion [A](https://doi.org/10.1214/09-STS285A), [B](https://doi.org/10.1214/09-STS285B), [C](https://doi.org/10.1214/09-STS285C), [D](https://doi.org/10.1214/09-STS285D), [Rejoinder](https://doi.org/10.1214/09-STS285REJ)
 
 
-_Add somewhere_: Tidy data: [Wickham (2014)](https://doi.org/10.18637/jss.v059.i10)
+_Add somewhere_:
+50 years of data science: [Donoho (2017)](https://doi.org/10.1080/10618600.2017.1384734) (w/ discussion: [![pdf logo](https://kbroman.org/pages/icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/blog/50_years_datasci_with_disc.pdf))
