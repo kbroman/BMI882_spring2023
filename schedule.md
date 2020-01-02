@@ -7,8 +7,8 @@ description: Schedule and readings for BMI 882, Biomedical data science scholarl
 
 | Date    | &nbsp;&nbsp;&nbsp;&nbsp;   | Topic/Reading  |
 | :------ | -- | :----- |
-| 21 Jan  |    |        | **No meeting**
-| 23 Jan  |    |        | Tidy data: [Wickham (2014)](https://doi.org/10.18637/jss.v059.i10)
+| 21 Jan      |    | **No meeting** |
+| 23 Jan      |    | Tidy data: [Wickham (2014)](https://doi.org/10.18637/jss.v059.i10) |
 | 28,30 Jan   |    | The Duke Saga: [Baggerly & Coombes (2009)](https://projecteuclid.org/euclid.aoas/1267453942)
 | 4 Feb       |    | Fine-mapping of a gene: [Benzer (1955)](https://doi.org/10.1073/pnas.41.6.344)
 | 6 Feb       |    | Fine-mapping of a gene: [Benzer (1959)](https://doi.org/10.1073/pnas.45.11.1607)
