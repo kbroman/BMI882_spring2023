@@ -126,8 +126,6 @@ simulation to investigate properties of methods discussed in an
 article, or application of the discussed methods to related biomedical
 data.
 
- - [Homework 1](homework1.html) due 3 Oct 2019
-
 
 ### Religious observances or other absences
 
