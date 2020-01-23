@@ -96,6 +96,8 @@ be discussed that week: one paragraph summarizing the article(s), and
 a second paragraph describing your reaction (for example, aspects that
 you found surprising, interesting, or suspect). The written summary
 should be less than a page but more than a couple of sentences.
+**Also include two or more discussion questions that might be used to
+stimulate discussion of the paper.**
 
 These article summaries should be completed at least a half-hour prior
 to the class meeting time. This may be accomplished in a variety of
