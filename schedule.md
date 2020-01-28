@@ -10,7 +10,7 @@ description: Schedule and readings for BMI 882, Biomedical data science scholarl
 | 21 Jan      |    | **No meeting** |
 | 23 Jan      |    | Tidy data: [Wickham (2014)](https://doi.org/10.18637/jss.v059.i10) [![pdf logo](https://kbroman.org/pages/icons16/pdf-icon.png)](https://www.jstatsoft.org/index.php/jss/article/view/v059i10/v59i10.pdf) |
 | 28,30 Jan   |    | 50 years of data science: [Donoho (2017)](https://doi.org/10.1080/10618600.2017.1384734) (w/ discussion: [![pdf logo](https://kbroman.org/pages/icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/blog/50_years_datasci_with_disc.pdf))
-| 4,6 Feb     |    | The Duke Saga: [Baggerly & Coombes (2009)](https://projecteuclid.org/euclid.aoas/1267453942)
+| 4,6 Feb     |    | The Duke Saga: [Baggerly & Coombes (2009)](https://projecteuclid.org/euclid.aoas/1267453942) [![pdf logo](https://kbroman.org/pages/icons16/pdf-icon.png)](https://projecteuclid.org/download/pdfview_1/euclid.aoas/1267453942)
 | 11 Feb      |    | Fine-mapping of a gene: [Benzer (1955)](https://doi.org/10.1073/pnas.41.6.344)
 | 13 Feb      |    | Fine-mapping of a gene: [Benzer (1959)](https://doi.org/10.1073/pnas.45.11.1607)
 | 18 Feb      |    | Prdm9: [Myers et al. (2010)](https://doi.org/10.1126/science.1182363)
