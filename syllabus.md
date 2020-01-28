@@ -8,7 +8,7 @@ description: Syllabus for BMI 882, Biomedical data science scholarly literature
 [University of Wisconsin-Madison](https://wisc.edu) <br/>
 (2 credits)
 
-**Course meetings**: Tu/Thu 8:30-9:20, [1116 Biochemistry](https://map.wisc.edu/s/3cqqjqss)
+**Course meetings**: Tu/Thu 8:30-9:20, [2116 Genetics-Biotechnology Center](https://map.wisc.edu/s/2tie3nen)
 
 **Instructor**: [Karl Broman](https://kbroman.org),
 [2126 Genetics-Biotechnology Center](https://map.wisc.edu/s/2tie3nen)
