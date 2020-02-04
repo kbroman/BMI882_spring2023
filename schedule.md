@@ -13,11 +13,11 @@ description: Schedule and readings for BMI 882, Biomedical data science scholarl
 | 4 Feb       |    | The Duke Saga: [Baggerly & Coombes (2009)](https://projecteuclid.org/euclid.aoas/1267453942) [![pdf logo](https://kbroman.org/pages/icons16/pdf-icon.png)](https://projecteuclid.org/download/pdfview_1/euclid.aoas/1267453942)
 | 6 Feb       |    | The Duke Saga: [Baggerly & Coombes (2011)](https://academic.oup.com/clinchem/article/57/5/688/5621016) [![pdf logo](https://kbroman.org/pages/icons16/pdf-icon.png)](https://academic.oup.com/clinchem/article-pdf/57/5/688/31736129/clinchem0688.pdf)
 | 11 Feb      |    | fMRI p-values: [Eklund et al. (2016)](https://doi.org/10.1073/pnas.1602413113)
-| 13 Feb      |    | **No class**
+| 13 Feb      |    | **No class** (probably)
 | 18 Feb      |    | Fine-mapping of a gene: [Benzer (1955)](https://doi.org/10.1073/pnas.41.6.344)
 | 20 Feb      |    | Fine-mapping of a gene: [Benzer (1959)](https://doi.org/10.1073/pnas.45.11.1607)
 | 25 Feb      |    | Bootstrap in regression: [Freedman and Peters (1984)](https://www.jstor.org/stable/2288341)
-| 27 Feb      |    | **No class**
+| 27 Feb      |    | **No class** (probably)
 | 3 Mar       |    | Prdm9: [Myers et al. (2010)](https://doi.org/10.1126/science.1182363)
 | 5 Mar       |    | Prdm9: [Parvanov et al. (2010)](https://doi.org/10.1126/science.1181495)
 | 10 Mar      |    | False discovery rates: [Benjamini and Hochberg (1995)](https://doi.org/10.1111/j.2517-6161.1995.tb02031.x)
@@ -30,6 +30,6 @@ description: Schedule and readings for BMI 882, Biomedical data science scholarl
 | 7,9 Apr     |    | Batch effects: [Leek et al. (2010)](https://doi.org/10.1038/nrg2825)
 | 14,16 Apr   |    | EM algorithm: [Dempster et al. (1977)](https://www.jstor.org/stable/2984875)
 | 21 Apr      |    | Sticklebacks: [Indjeian et al. (2016)](https://doi.org/10.1016/j.cell.2015.12.007)
-| 23 Apr      |    | **No class**
+| 23 Apr      |    | **No class** (for sure)
 | 28 Apr      |    | Citation statistics: [Adler et al. (2009)](https://projecteuclid.org/euclid.ss/1255009002)
 | 30 Apr      |    | Citation statistics: Discussion [A](https://doi.org/10.1214/09-STS285A), [B](https://doi.org/10.1214/09-STS285B), [C](https://doi.org/10.1214/09-STS285C), [D](https://doi.org/10.1214/09-STS285D), [Rejoinder](https://doi.org/10.1214/09-STS285REJ)
