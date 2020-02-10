@@ -49,3 +49,6 @@ will involve an effort to reproduce the results of an article, the use
 of computer simulation to investigate properties of methods discussed
 in an article, or application of the discussed methods to related
 biomedical data.
+
+- [Homework 1](hw1.html) due **2020-02-27**
+- Homework 2 likely to be assigned 2020-03-03 and due 2020-03-26
