@@ -25,11 +25,11 @@ description: Schedule and readings for BMI 882, Biomedical data science scholarl
 | 17,19 Mar   |    | **No class (spring break)** |
 | 24 Mar      |    | Gene set enrichment: [Mootha et al. (2003)](https://doi.org/10.1038/ng1180)
 | 26 Mar      |    | Gene set enrichment: [Subramanian et al. (2005)](https://doi.org/10.1073/pnas.0506580102)
-| 31 Mar      |    | GWAS of aging: [Sebastini et al. (2010) (_retracted_)](https://doi.org/10.1126/science.1190532)
-| 2 Apr       |    | GWAS of aging: [Sebastini et al. (2012)](https://doi.org/10.1371/journal.pone.0029848)
-| 7,9 Apr     |    | Batch effects: [Leek et al. (2010)](https://doi.org/10.1038/nrg2825)
-| 14,16 Apr   |    | EM algorithm: [Dempster et al. (1977)](https://www.jstor.org/stable/2984875)
+| 31 Mar      |    | GWAS of aging: [Sebastini et al. (2010) (_retracted_)](https://doi.org/10.1126/science.1190532); [Sebastini et al. (2012)](https://doi.org/10.1371/journal.pone.0029848)
+| 2 Apr       |    | **No class**
+| 7,9 Apr     |    | EM algorithm: [Dempster et al. (1977)](https://www.jstor.org/stable/2984875)
+| 14,16 Apr   |    | Batch effects: [Leek et al. (2010)](https://doi.org/10.1038/nrg2825)
 | 21 Apr      |    | Sticklebacks: [Indjeian et al. (2016)](https://doi.org/10.1016/j.cell.2015.12.007)
-| 23 Apr      |    | **No class** (for sure)
+| 23 Apr      |    | **No class**
 | 28 Apr      |    | Citation statistics: [Adler et al. (2009)](https://projecteuclid.org/euclid.ss/1255009002)
 | 30 Apr      |    | Citation statistics: Discussion [A](https://doi.org/10.1214/09-STS285A), [B](https://doi.org/10.1214/09-STS285B), [C](https://doi.org/10.1214/09-STS285C), [D](https://doi.org/10.1214/09-STS285D), [Rejoinder](https://doi.org/10.1214/09-STS285REJ)
