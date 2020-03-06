@@ -30,5 +30,5 @@ biomedical data.
 
 - [schedule](schedule.html)
 - [syllabus](syllabus.html)
-- [assignments](assignments.html) \[[Homework 1](hw1.html) due 2020-02-27\]
+- [assignments](assignments.html)
 - [resources](resources.html)
