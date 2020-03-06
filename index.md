@@ -28,7 +28,7 @@ biomedical data.
 
 **Office hours**: Tu 9:30-10:30, Fr 10:30-11:30, or by appointment
 
-- [schedule](schedule.html) \[**No class 2020-03-05**\]
+- [schedule](schedule.html)
 - [syllabus](syllabus.html)
 - [assignments](assignments.html) \[[Homework 1](hw1.html) due 2020-02-27\]
 - [resources](resources.html)
