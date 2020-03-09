@@ -20,14 +20,14 @@ description: Schedule and readings for BMI 882, Biomedical data science scholarl
 | 27 Feb      |    | **No class** \[**[Homework 1](hw1.html) due**\]
 | 3 Mar       |    | Prdm9: [Myers et al. (2010)](https://doi.org/10.1126/science.1182363) [![pdf logo](https://kbroman.org/pages/icons16/pdf-icon.png)](https://science.sciencemag.org/content/327/5967/876.full.pdf), [Parvanov et al. (2010)](https://doi.org/10.1126/science.1181495) [![pdf logo](https://kbroman.org/pages/icons16/pdf-icon.png)](https://science.sciencemag.org/content/sci/327/5967/835.full.pdf)
 | 5 Mar       |    | **No class**
-| 10 Mar      |    | False discovery rates: [Benjamini and Hochberg (1995)](https://doi.org/10.1111/j.2517-6161.1995.tb02031.x) [![pdf logo](https://kbroman.org/pages/icons16/pdf-icon.png)](http://bit.ly/32ovGFh)
-| 12 Mar      |    | False discovery rates: [Storey and Tibshirani (2003)](https://doi.org/10.1073/pnas.1530509100) [![pdf logo](https://kbroman.org/pages/icons16/pdf-icon.png)](https://www.pnas.org/content/pnas/100/16/9440.full.pdf)
+| 10,12 Mar   |    | **No class** |
 | 17,19 Mar   |    | **No class (spring break)** |
-| 24 Mar      |    | Gene set enrichment: [Mootha et al. (2003)](https://doi.org/10.1038/ng1180)
-| 26 Mar      |    | Gene set enrichment: [Subramanian et al. (2005)](https://doi.org/10.1073/pnas.0506580102)
-| 31 Mar      |    | GWAS of aging: [Sebastini et al. (2010) (_retracted_)](https://doi.org/10.1126/science.1190532); [Sebastini et al. (2012)](https://doi.org/10.1371/journal.pone.0029848)
-| 2 Apr       |    | **No class**
-| 7,9 Apr     |    | EM algorithm: [Dempster et al. (1977)](https://www.jstor.org/stable/2984875)
+| 24 Mar      |    | False discovery rates: [Benjamini and Hochberg (1995)](https://doi.org/10.1111/j.2517-6161.1995.tb02031.x) [![pdf logo](https://kbroman.org/pages/icons16/pdf-icon.png)](http://bit.ly/32ovGFh)
+| 26 Mar      |    | False discovery rates: [Storey and Tibshirani (2003)](https://doi.org/10.1073/pnas.1530509100) [![pdf logo](https://kbroman.org/pages/icons16/pdf-icon.png)](https://www.pnas.org/content/pnas/100/16/9440.full.pdf)
+| 31 Mar      |    | Gene set enrichment: [Mootha et al. (2003)](https://doi.org/10.1038/ng1180)
+| 2 Apr      |    | Gene set enrichment: [Subramanian et al. (2005)](https://doi.org/10.1073/pnas.0506580102)
+| 7 Apr      |    | GWAS of aging: [Sebastini et al. (2010) (_retracted_)](https://doi.org/10.1126/science.1190532); [Sebastini et al. (2012)](https://doi.org/10.1371/journal.pone.0029848)
+| 9 Apr       |    | **No class**
 | 14,16 Apr   |    | Batch effects: [Leek et al. (2010)](https://doi.org/10.1038/nrg2825)
 | 21 Apr      |    | Sticklebacks: [Indjeian et al. (2016)](https://doi.org/10.1016/j.cell.2015.12.007)
 | 23 Apr      |    | **No class**
