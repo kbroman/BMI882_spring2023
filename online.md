@@ -21,8 +21,7 @@ We will meet at the usual time (Tues/Thurs 8:30-9:20 CDT).
 To get to the online discussion, go to the
 [course Canvas site](https://canvas.wisc.edu/courses/190668) and click
 "BBCollaborate Ultra" on the left. You can also use the [guest
-url](https://bit.ly/disc882_sp2020), <
-https://bit.ly/disc882_sp2020>.
+url](https://bit.ly/disc882_sp2020), <https://bit.ly/disc882_sp2020>.
 
 There's also an option to join by phone.
 
