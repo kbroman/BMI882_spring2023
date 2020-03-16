@@ -5,6 +5,9 @@ tagline: (subject to change)
 description: Schedule and readings for BMI 882, Biomedical data science scholarly literature
 ---
 
+**[COVID-19](https://covid19.wisc.edu)**: Starting 24 March, and through at least 10 April,
+discussions and office hours will be strictly online. [**More information here**](online.html).
+
 | Date    | &nbsp;&nbsp;&nbsp;&nbsp;   | Topic/Reading  |
 | :------ | -- | :----- |
 | 21 Jan      |    | **No meeting** |
