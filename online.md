@@ -23,9 +23,10 @@ To get to the online discussion, go to the
 "BBCollaborate Ultra" on the left. You can also use the [guest
 url](https://bit.ly/disc882_sp2020), <https://bit.ly/disc882_sp2020>.
 
-There's also an option to join by phone.
-
-    +1-571-392-7650 PIN: 413 774 2179
+There's also an option to join by phone. But I think
+each student needs to get a unique PIN, so go to the [BBCollaborate
+session](https://bit.ly/disc882_sp2020) to get the call-in number and
+your PIN.
 
 I will make everyone a moderator, so we will all have equal control
 over sharing materials and writing on (or erasing) the white board.
@@ -39,9 +40,12 @@ for BBCollaborate Ultra if you want to test out your audio in advance.
 
 I also plan to hold office hours using [BBCollaborate
 Ultra](https://it.wisc.edu/services/web-conferencing/).
-Go to <https://bit.ly/offhrs_sp2020>. You can also join that by phone:
+Go to <https://bit.ly/offhrs_sp2020>.
 
-    +1-571-392-7650 PIN: 711 518 6218
+You can also join the office hours by phone, but again I think each
+student needs to get a unique PIN, so go to the [BBCollaborate
+session](https://bit.ly/offhrs_sp2020) to get the call-in number and
+your PIN.
 
 I will be available there Tuesdays 9:30-10:30 and Fridays 10:30-11:30,
 starting 24 March.
