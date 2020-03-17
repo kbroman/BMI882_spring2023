@@ -28,8 +28,8 @@ each student needs to get a unique PIN, so go to the [BBCollaborate
 session](https://bit.ly/dis882_sp2020) to get the call-in number and
 your PIN.
 
-I will make everyone a moderator, so we will all have equal control
-over sharing materials and writing on (or erasing) the white board.
+I will make everyone a presenter, so you should have control
+over sharing materials and writing on the white board.
 
 There's a [course
 room](https://us.bbcollab.com/guest/9d61ef5828044f0cb834498ca8835fa9)
