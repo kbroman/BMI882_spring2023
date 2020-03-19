@@ -4,7 +4,7 @@ title: BMI 882 online discussions/office hours
 description: Information about the online delivery of discussions and office hours for BMI 882 (Biomedical data science scholarly literature 2)
 ---
 
-**[COVID-19](https://covid19.wisc.edu)**: Starting 24 March, and through at least 10 April,
+**[COVID-19](https://covid19.wisc.edu)**: Starting 24 March, and through the rest of the semester,
 discussions and office hours will be strictly online.
 
 ### Discussions
