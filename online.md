@@ -20,20 +20,20 @@ We will meet at the usual time (Tues/Thurs 8:30-9:20 CDT).
 
 To get to the online discussion, go to the
 [course Canvas site](https://canvas.wisc.edu/courses/190668) and click
-"BBCollaborate Ultra" on the left. You can also use the [guest
-url](https://bit.ly/dis882_sp2020), <https://bit.ly/dis882_sp2020>.
+"BBCollaborate Ultra" on the left. We'll be using the general
+"Course Room". You can also use the [guest
+url](https://bit.ly/bb882_sp2020), <https://bit.ly/bb882_sp2020>.
 
-There's also an option to join by phone. But I think
-each student needs to get a unique PIN, so go to the [BBCollaborate
-session](https://bit.ly/dis882_sp2020) to get the call-in number and
-your PIN.
+There's also an option to join by phone. But I think each student
+needs to get a unique PIN, so go to the [course Canvas
+site](https://canvas.wisc.edu/courses/190668) to get the call-in
+number and your PIN.
 
 I will make everyone a presenter, so you should have control
 over sharing materials and writing on the white board.
 
-There's a [course
-room](https://us.bbcollab.com/guest/9d61ef5828044f0cb834498ca8835fa9)
-for BBCollaborate Ultra if you want to test out your audio in advance.
+The [BBCollaborate course room](https://bit.ly/bb882_sp2020)
+is open all the time, if you want to test out your audio/video in advance.
 
 
 ### Office hours
