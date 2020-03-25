@@ -31,8 +31,9 @@ discussions and office hours will be strictly online. [**More information here**
 |  2 Apr      |    | Pandemics: [Chinazzi et al. (2020)](https://doi.org/10.1126/science.aba9757) [![pdf logo](icons/pdf-icon.png)](https://science.sciencemag.org/content/sci/early/2020/03/05/science.aba9757.full.pdf)
 |  7 Apr      |    | GWAS of aging: [Sebastini et al. (2010) (_retracted_)](https://doi.org/10.1126/science.1190532) [![pdf logo](icons/pdf-icon.png)](assets/sebastini2010.pdf); [Sebastini et al. (2012)](https://doi.org/10.1371/journal.pone.0029848) [![pdf logo](icons/pdf-icon.png)](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0029848&type=printable)
 |  9 Apr      |    | **No class**
-| 14 Apr      |    | Gene set enrichment: [Mootha et al. (2003)](https://doi.org/10.1038/ng1180)
-| 16 Apr      |    | Gene set enrichment: [Subramanian et al. (2005)](https://doi.org/10.1073/pnas.0506580102)
-| 21,23 Apr   |    | Batch effects: [Leek et al. (2010)](https://doi.org/10.1038/nrg2825)
-| 28 Apr      |    | Citation statistics: [Adler et al. (2009)](https://projecteuclid.org/euclid.ss/1255009002)
-| 30 Apr      |    | Citation statistics: Discussion [A](https://doi.org/10.1214/09-STS285A), [B](https://doi.org/10.1214/09-STS285B), [C](https://doi.org/10.1214/09-STS285C), [D](https://doi.org/10.1214/09-STS285D), [Rejoinder](https://doi.org/10.1214/09-STS285REJ)
+| 14 Apr      |    | Gene set enrichment: [Mootha et al. (2003)](https://doi.org/10.1038/ng1180) [![pdf logo](icons/pdf-icon.png)](assets/mootha2003.pdf), [Subramanian et al. (2005)](https://doi.org/10.1073/pnas.0506580102) [![pdf logo](icons/pdf-icon.png)](https://www.pnas.org/content/pnas/102/43/15545.full.pdf)
+| 16 Apr      |    | Gene set enrichment: [Newton et al. (2007)](https://doi.org/10.1214/07-AOAS104) [![pdf logo](icons/pdf-icon.png)](https://projecteuclid.org/download/pdfview_1/euclid.aoas/1183143730)
+| 21 Apr      |    | Batch effects: [Leek et al. (2010)](https://doi.org/10.1038/nrg2825) [![pdf logo](icons/pdf-icon.png)](https://www.nature.com/articles/nrg2825.pdf)
+| 23 Apr      |    | **No class**
+| 28 Apr      |    | Citation statistics: [Adler et al. (2009)](https://projecteuclid.org/euclid.ss/1255009002) [![pdf logo](icons/pdf-icon.png)](https://projecteuclid.org/download/pdfview_1/euclid.ss/1255009002) Discussion [A](https://doi.org/10.1214/09-STS285A), [B](https://doi.org/10.1214/09-STS285B), [C](https://doi.org/10.1214/09-STS285C), [D](https://doi.org/10.1214/09-STS285D), [Rejoinder](https://doi.org/10.1214/09-STS285REJ) [![pdf logo](icons/pdf-icon.png)](assets/adler2009_disc.pdf)
+| 30 Apr      |    | **No class**
