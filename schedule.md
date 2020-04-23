@@ -1,7 +1,6 @@
 ---
 layout: page
 title: schedule
-tagline: (subject to change)
 description: Schedule and readings for BMI 882, Biomedical data science scholarly literature
 ---
 
