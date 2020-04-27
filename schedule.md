@@ -4,9 +4,6 @@ title: schedule
 description: Schedule and readings for BMI 882, Biomedical data science scholarly literature
 ---
 
-**[COVID-19](https://covid19.wisc.edu)**: For the rest of the semester,
-discussions and office hours will be strictly online. [**More information here**](online.html).
-
 | Date    | &nbsp;&nbsp;&nbsp;&nbsp;   | Topic/Reading  |
 | :------ | -- | :----- |
 | 21 Jan      |    | **No meeting** |
