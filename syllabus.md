@@ -8,18 +8,12 @@ description: Syllabus for BMI 882, Biomedical data science scholarly literature
 [University of Wisconsin-Madison](https://wisc.edu) <br/>
 (2 credits)
 
-**Course meetings**: Tu/Thu 8:30-9:20, [2116 Genetics-Biotechnology Center](https://map.wisc.edu/s/2tie3nen)
+**Course meetings**: Tu/Thu 8:30-9:20 via BBCollaborate at [Canvas site](https://canvas.wisc.edu)
 
-**Instructor**: [Karl Broman](https://kbroman.org),
-[2126 Genetics-Biotechnology Center](https://map.wisc.edu/s/2tie3nen)
+**Instructor**: [Karl Broman](https://kbroman.org)
 
-**Office hours**: Tu 9:30-10:30, Fr 10:30-11:30, or by appointment.
-Connect with me using [BBCollaborate
-Ultra](https://it.wisc.edu/services/web-conferencing/);
-go to <https://bit.ly/offhrs_sp2020>.
-
-**[COVID-19](https://covid19.wisc.edu)**: Starting 24 March, and through at least 10 April,
-discussions and office hours will be strictly online. [**More information here**](online.html).
+**Office hours**: Tu 9:30-10:30, Fr 9:30-10:30, or by appointment,
+via BBCollaborate: <https://bit.ly/offhrs_sp2021>
 
 Critical evaluation of the scholarly literature is a crucial skill for
 researchers. Through this course (along with its continuation, BMI
@@ -31,7 +25,7 @@ and relevant topics in statistics and computer science. Students will
 read and discuss one article or a small group of related articles each
 week. Students will provide short written summaries in advance of
 discussion. In addition to the readings and discussion,
-there will be three written homework assignments
+there will be two written homework assignments
 related to the articles under discussion. These homework assignments
 will involve an effort to reproduce the results of an article, the use
 of computer simulation to investigate properties of methods discussed
@@ -51,7 +45,7 @@ biomedical data.
 ### Course grade
 
 Course grade will be based on class participation (40%),
-written article summaries (30%), and 3 homework assignments (30%).
+written article summaries (30%), and 2 homework assignments (30%).
 
 The article summaries will be scored 0 (missing), 1 (weak), 2 (adequate),
 and 3 (strong).
@@ -96,8 +90,8 @@ of discussion.
 
 #### Written article summaries
 
-Prior to each Tuesday morning class (or Thursday if there is no class
-on the Tuesday), write a short summary of the article or articles to
+Prior to each Tuesday morning class,
+write a short summary of the article or articles to
 be discussed that week: one paragraph summarizing the article(s), and
 a second paragraph describing your reaction (for example, aspects that
 you found surprising, interesting, or suspect). The written summary
@@ -127,7 +121,7 @@ the instructor but may otherwise be private.
 
 #### Homework assignments
 
-There will be three written homework assignments related to the
+There will be two written homework assignments related to the
 articles under discussion. These homework assignments will involve an
 effort to reproduce the results of an article, the use of computer
 simulation to investigate properties of methods discussed in an

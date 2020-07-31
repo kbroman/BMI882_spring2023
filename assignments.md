@@ -12,8 +12,8 @@ of discussion.
 
 ### Written article summaries
 
-Prior to each Tuesday morning class (or Thursday if there is no class
-on the Tuesday), write a short summary of the article or articles to
+Prior to each Tuesday morning class,
+write a short summary of the article or articles to
 be discussed that week: one paragraph summarizing the article(s), and
 a second paragraph describing your reaction (for example, aspects that
 you found surprising, interesting, or suspect). The written summary
@@ -43,12 +43,9 @@ the instructor but may otherwise be private.
 
 ### Homework assignments
 
-There will be three written homework assignments
+There will be two written homework assignments
 related to the articles under discussion. These homework assignments
 will involve an effort to reproduce the results of an article, the use
 of computer simulation to investigate properties of methods discussed
 in an article, or application of the discussed methods to related
 biomedical data.
-
-- [Homework 1](hw1.html) due **2020-02-27**
-- Homework 2 likely to be assigned 2020-03-03 and due 2020-03-26
