@@ -17,7 +17,7 @@ description: Schedule and readings for BMI 882, Biomedical data science scholarl
 | 16 Feb      |    | Fine-mapping of a gene: [Benzer (1955)](https://doi.org/10.1073/pnas.41.6.344) [![pdf logo](icons/pdf-icon.png)](https://www.pnas.org/content/pnas/41/6/344.full.pdf)
 | 18 Feb      |    | Fine-mapping of a gene: [Benzer (1959)](https://doi.org/10.1073/pnas.45.11.1607) [![pdf logo](icons/pdf-icon.png)](https://www.pnas.org/content/pnas/45/11/1607.full.pdf)
 | 23 Feb      |    | Bootstrap in regression: [Freedman and Peters (1984)](https://www.jstor.org/stable/2288341) [![pdf logo](icons/pdf-icon.png)](assets/freedman_peters_1984.pdf)
-| 25 Feb      |    | **No class** \[**[Homework 1](hw1.html) due**\]
+| 25 Feb      |    | **No class**
 | 2 Mar       |    | Prdm9: [Myers et al. (2010)](https://doi.org/10.1126/science.1182363) [![pdf logo](icons/pdf-icon.png)](https://science.sciencemag.org/content/327/5967/876.full.pdf), [Parvanov et al. (2010)](https://doi.org/10.1126/science.1181495) [![pdf logo](icons/pdf-icon.png)](https://science.sciencemag.org/content/sci/327/5967/835.full.pdf)
 | 4 Mar       |    | **No class** |
 | 9,11 Mar    |    | TBD          |
