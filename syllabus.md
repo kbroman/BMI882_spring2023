@@ -8,12 +8,13 @@ description: Syllabus for BMI 882, Biomedical data science scholarly literature
 [University of Wisconsin-Madison](https://wisc.edu) <br/>
 (2 credits)
 
-**Course meetings**: Tu/Thu 8:30-9:20 via BBCollaborate at [Canvas site](https://canvas.wisc.edu)
+**Course meetings**: Tu/Thu 8:30-9:20 (via zoom; get link at [Canvas site](https://canvas.wisc.edu))
 
 **Instructor**: [Karl Broman](https://kbroman.org)
 
-**Office hours**: Tu 9:30-10:30, Fr 9:30-10:30, or by appointment,
-via BBCollaborate: <https://bit.ly/offhrs_sp2021>
+**Office hours**: Tu 9:30-10:30, Fr 9:30-10:30, or by appointment
+(via zoom; get link at [Canvas site](https://canvas.wisc.edu), or
+email Karl)
 
 Critical evaluation of the scholarly literature is a crucial skill for
 researchers. Through this course (along with its continuation, BMI
