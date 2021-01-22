@@ -27,7 +27,7 @@ biomedical data.
 **Instructor**: [Karl Broman](https://kbroman.org)
 
 **Office hours**: Tu 9:30-10:30, Fr 9:30-10:30, or by appointment
-(via BBCollaborate)
+(via BBCollaborate, <http://bit.ly/broman_offhrs>)
 
 - [schedule](schedule.html)
 - [syllabus](syllabus.html)
