@@ -4,12 +4,19 @@ title: resources
 description: Resources for BMI 882, Biomedical data science scholarly literature
 ---
 
+### Reproducibility
+
+- [Video of Keith Baggerly speaking about Reproducible Research in
+  High-Throughput Biology](https://www.youtube.com/watch?v=8QJfNS7XXwA)
+
+
 ### Reading scientific papers
 
 - [How to read a scientific paper](https://www.sciencemag.org/careers/2016/01/how-read-scientific-paper)
 - [How to (seriously) read a scientific paper](https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper)
 - [Tian Zheng](http://tzstatsads.github.io/)'s [twitter thread](https://twitter.com/tz33cu/status/1119777860909174785)
 - [Leek group guide to reading academic papers](https://github.com/jtleek/readingpapers)
+
 
 ### Accessing scientific papers
 
