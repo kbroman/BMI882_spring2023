@@ -31,5 +31,5 @@ biomedical data.
 
 - [schedule](schedule.html)
 - [syllabus](syllabus.html)
-- [assignments](assignments.html)
+- [assignments](assignments.html): [**homework 1 due 2021-03-16**](hw1.html)
 - [resources](resources.html)
