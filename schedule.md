@@ -7,13 +7,13 @@ description: Schedule and readings for BMI 882, Biomedical data science scholarl
 
 | Date    | &nbsp;&nbsp;&nbsp;&nbsp;   | Topic/Reading  |
 | :------ | -- | :----- |
-| 26 Jan      |    | **No meeting** |
+| 26 Jan      |    | **No class** |
 | 28 Jan      |    | Tidy data: [Wickham (2014)](https://doi.org/10.18637/jss.v059.i10) [![pdf logo](icons/pdf-icon.png)](https://www.jstatsoft.org/index.php/jss/article/view/v059i10/v59i10.pdf) |
 | 2,4 Feb   |    | 50 years of data science: [Donoho (2017)](https://doi.org/10.1080/10618600.2017.1384734) (w/ discussion: [![pdf logo](icons/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/blog/50_years_datasci_with_disc.pdf))
 | 9 Feb       |    | The Duke Saga: [Baggerly & Coombes (2009)](https://projecteuclid.org/euclid.aoas/1267453942) [![pdf logo](icons/pdf-icon.png)](https://projecteuclid.org/download/pdfview_1/euclid.aoas/1267453942)
-| 11 Feb      |    | **No meeting** |
+| 11 Feb      |    | **No class** |
 | 16 Feb       |    | The Duke Saga: [Baggerly & Coombes (2011)](https://academic.oup.com/clinchem/article/57/5/688/5621016) [![pdf logo](icons/pdf-icon.png)](https://academic.oup.com/clinchem/article-pdf/57/5/688/31736129/clinchem0688.pdf)
-| 18 Feb      |    | **No meeting** |
+| 18 Feb      |    | **No class** |
 | 23 Feb      |    | fMRI p-values: [Eklund et al. (2016)](https://doi.org/10.1073/pnas.1602413113) [![pdf logo](icons/pdf-icon.png)](https://www.pnas.org/content/pnas/113/28/7900.full.pdf) letters and reply [![pdf logo](icons/pdf-icon.png)](assets/eklund_disc.pdf)
 | 25 Feb      |    | **No class**
 | 2 Mar      |    | Bootstrap in regression: [Freedman and Peters (1984)](https://www.jstor.org/stable/2288341) [![pdf logo](icons/pdf-icon.png)](assets/freedman_peters_1984.pdf)
