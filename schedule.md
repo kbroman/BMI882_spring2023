@@ -32,5 +32,9 @@ description: Schedule and readings for BMI 882, Biomedical data science scholarl
 | 15 Apr      |    | Gene set enrichment: [Newton et al. (2007)](https://doi.org/10.1214/07-AOAS104) [![pdf logo](icons/pdf-icon.png)](https://projecteuclid.org/download/pdfview_1/euclid.aoas/1183143730)
 | 20 Apr      |    | Batch effects: [Leek et al. (2010)](https://doi.org/10.1038/nrg2825) [![pdf logo](icons/pdf-icon.png)](https://www.nature.com/articles/nrg2825.pdf)
 | 22 Apr      |    | **No class** |
-| 27 Apr      |    | Citation statistics: [Adler et al. (2009)](https://doi.org/10.1214/09-STS285) [![pdf logo](icons/pdf-icon.png)](https://projecteuclid.org/download/pdfview_1/euclid.ss/1255009002) Discussion [A](https://doi.org/10.1214/09-STS285A), [B](https://doi.org/10.1214/09-STS285B), [C](https://doi.org/10.1214/09-STS285C), [D](https://doi.org/10.1214/09-STS285D), [Rejoinder](https://doi.org/10.1214/09-STS285REJ) [![pdf logo](icons/pdf-icon.png)](assets/adler2009_disc.pdf)
+| 27 Apr      |    | **No class** |
 | 29 Apr      |    | **No class** |
+
+<!--  removed paper
+Citation statistics: [Adler et al. (2009)](https://doi.org/10.1214/09-STS285) [![pdf logo](icons/pdf-icon.png)](https://projecteuclid.org/download/pdfview_1/euclid.ss/1255009002) Discussion [A](https://doi.org/10.1214/09-STS285A), [B](https://doi.org/10.1214/09-STS285B), [C](https://doi.org/10.1214/09-STS285C), [D](https://doi.org/10.1214/09-STS285D), [Rejoinder](https://doi.org/10.1214/09-STS285REJ) [![pdf logo](icons/pdf-icon.png)](assets/adler2009_disc.pdf)
+-->
