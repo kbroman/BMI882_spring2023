@@ -9,6 +9,14 @@ The aim of the course is for students to learn how to read scientific
 papers, and to discuss a variety of papers from statistics,
 computer science, and science generally.
 
+Past versions:
+
+- [Spring, 2020](https://kbroman.org/BMI882_spring2020/)
+  [![github icon](https://kbroman.org/icons16/github-icon.png)](https://github.com/kbroman/BMI882_spring2020/)
+
+- [Spring, 2021](https://kbroman.org/BMI882_spring2021/)
+  [![github icon](https://kbroman.org/icons16/github-icon.png)](https://github.com/kbroman/BMI882_spring2021/)
+
 ---
 
 My parts of this web site are licensed under
