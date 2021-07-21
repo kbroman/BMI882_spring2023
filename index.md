@@ -21,13 +21,11 @@ of computer simulation to investigate properties of methods discussed
 in an article, or application of the discussed methods to related
 biomedical data.
 
-**Course meetings**: Tu/Thu 8:30-9:20 (via BBCollaborate, in the
-"Course room" at the [Canvas site](https://canvas.wisc.edu))
+**Course meetings**: Tu/Thu 8:30-9:20
 
 **Instructor**: [Karl Broman](https://kbroman.org)
 
-**Office hours**: Tu 9:30-10:30, Fr 9:30-10:30, or by appointment
-(via BBCollaborate, <http://bit.ly/broman_offhrs>)
+**Office hours**: Tu 9:30-10:30, or by appointment
 
 - [schedule](schedule.html)
 - [syllabus](syllabus.html)
