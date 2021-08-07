@@ -49,5 +49,3 @@ will involve an effort to reproduce the results of an article, the use
 of computer simulation to investigate properties of methods discussed
 in an article, or application of the discussed methods to related
 biomedical data.
-
-- [Homework 1 due 2021-03-16](hw1.html)
