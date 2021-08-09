@@ -10,7 +10,7 @@ description: Syllabus for BMI 882, Biomedical data science scholarly literature
 
 **Course meetings**: Tu/Thu 8:30-9:20
 
-**Instructor**: [Karl Broman](https://kbroman.org)
+**Instructor**: [Karl Broman](https://kbroman.org), [2126 Genetics-Biotech](https://map.wisc.edu/s/5gyvnffv)
 
 **Office hours**: Tu 9:30-10:30, or by appointment
 
