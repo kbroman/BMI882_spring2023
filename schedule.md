@@ -25,10 +25,8 @@ description: Schedule and readings for BMI 882, Biomedical data science scholarl
 | 24 Mar      |    | Fine-mapping of a gene: [Benzer (1959)](https://doi.org/10.1073/pnas.45.11.1607) [![pdf logo](icons/pdf-icon.png)](https://www.pnas.org/content/pnas/45/11/1607.full.pdf)
 | 29 Mar      |    | False discovery rates: [Benjamini and Hochberg (1995)](https://doi.org/10.1111/j.2517-6161.1995.tb02031.x) [![pdf logo](icons/pdf-icon.png)](http://bit.ly/32ovGFh)
 | 31 Mar      |    | False discovery rates: [Storey and Tibshirani (2003)](https://doi.org/10.1073/pnas.1530509100) [![pdf logo](icons/pdf-icon.png)](https://www.pnas.org/content/pnas/100/16/9440.full.pdf)
-| 5 Apr      |    | GWAS of aging: [Sebastini et al. (2010) (_retracted_)](https://doi.org/10.1126/science.1190532) [![pdf logo](icons/pdf-icon.png)](assets/sebastini2010.pdf), [supp](https://science.sciencemag.org/content/suppl/2010/06/30/science.1190532.DC1) [![pdf logo](icons/pdf-icon.png)](https://science.sciencemag.org/content/sci/suppl/2010/06/30/science.1190532.DC1/Sebastiani_SOM.pdf), [Sebastini et al. (2012)](https://doi.org/10.1371/journal.pone.0029848) [![pdf logo](icons/pdf-icon.png)](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0029848&type=printable)  |
-|  7 Apr      |    | **No class** |
-|  12 Apr      |    | COVID-19 interventions: [Brauner et al (2021)](https://doi.org/10.1126/science.abd9338) [![pdf logo](icons/pdf-icon.png)](https://science.sciencemag.org/content/371/6531/eabd9338.full.pdf), [supp ![pdf logo](icons/pdf-icon.png)](https://science.sciencemag.org/content/sci/suppl/2020/12/15/science.abd9338.DC1/abd9338_Brauner_SM.pdf)
-| 14 Apr      |    | **No class** |
+| 5,7 Apr     |    | TBD        |
+| 12,14 Apr   |    | TBD        |
 | 19 Apr      |    | Gene set enrichment: [Mootha et al. (2003)](https://doi.org/10.1038/ng1180) [![pdf logo](icons/pdf-icon.png)](assets/mootha2003.pdf), [Subramanian et al. (2005)](https://doi.org/10.1073/pnas.0506580102) [![pdf logo](icons/pdf-icon.png)](https://www.pnas.org/content/pnas/102/43/15545.full.pdf)
 | 21 Apr      |    | Gene set enrichment: [Newton et al. (2007)](https://doi.org/10.1214/07-AOAS104) [![pdf logo](icons/pdf-icon.png)](https://projecteuclid.org/download/pdfview_1/euclid.aoas/1183143730)
 | 26 Apr      |    | Batch effects: [Leek et al. (2010)](https://doi.org/10.1038/nrg2825) [![pdf logo](icons/pdf-icon.png)](https://www.nature.com/articles/nrg2825.pdf)
