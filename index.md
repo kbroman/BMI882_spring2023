@@ -21,7 +21,8 @@ of computer simulation to investigate properties of methods discussed
 in an article, or application of the discussed methods to related
 biomedical data.
 
-**Course meetings**: Tu/Thu 8:30-9:20
+**Course meetings**: Tu/Thu 8:30-9:20, [4765 MSC](https://www.biostat.wisc.edu/~kbroman/4765msc.html)
+or via zoom (link at [canvas site](https://canvas.wisc.edu/courses/295302))
 
 **Instructor**: [Karl Broman](https://kbroman.org), [2126
 Genetics-Biotech](https://map.wisc.edu/s/5gyvnffv)
