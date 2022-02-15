@@ -19,7 +19,7 @@ description: Schedule and readings for BMI 882, Biomedical data science scholarl
 | 3 Mar      |    | **No class**
 | 8 Mar      |    | Bootstrap in regression: [Freedman and Peters (1984)](https://www.jstor.org/stable/2288341) [![pdf logo](icons/pdf-icon.png)](assets/freedman_peters_1984.pdf)
 | 10 Mar      |    | **No class** ([homework 1 due](hw1.html)) |
-| 15,17 Mar   |    | **No class** |
+| 15,17 Mar   |    | **No class** (spring break) |
 | 22 Mar       |    | Prdm9: [Myers et al.](https://doi.org/10.1126/science.1182363) [![pdf logo](icons/pdf-icon.png)](https://science.sciencemag.org/content/327/5967/876.full.pdf), [Parvanov et al.](https://doi.org/10.1126/science.1181495) [![pdf logo](icons/pdf-icon.png)](https://science.sciencemag.org/content/sci/327/5967/835.full.pdf), [Baudat et al.](https://doi.org/10.1126/science.1183439) [![pdf logo](icons/pdf-icon.png)](https://science.sciencemag.org/content/327/5967/836.full.pdf), [Cheung et al. (2010)](https://doi.org/10.1126/science.1187155) [![pdf logo](icons/pdf-icon.png)](https://science.sciencemag.org/content/sci/327/5967/791.full.pdf)
 | 24 Mar       |    | **No class** |
 | 29 Mar      |    | Fine-mapping of a gene: [Benzer (1955)](https://doi.org/10.1073/pnas.41.6.344) [![pdf logo](icons/pdf-icon.png)](https://www.pnas.org/content/pnas/41/6/344.full.pdf)
