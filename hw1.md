@@ -1,10 +1,11 @@
 ---
 layout: page
 title: homework 1
-description: BMI 882 homework assignment 1 due 2021-03-16
+description: BMI 882 homework assignment 1 due 2022-03-10
+tagline: due 2022-03-10
 ---
 
-_due 2020-03-16_
+_due 2022-03-10_
 
 Reproduce Figure 1b from [Baggerly and Coombes
 (2009)](https://projecteuclid.org/download/pdfview_1/euclid.aoas/1267453942)
