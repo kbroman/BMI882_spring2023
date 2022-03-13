@@ -31,5 +31,5 @@ Genetics-Biotech](https://map.wisc.edu/s/5gyvnffv)
 
 - [schedule](schedule.html)
 - [syllabus](syllabus.html)
-- [assignments](assignments.html): [Homework 1](hw1.html) due 2022-03-10
+- [assignments](assignments.html)
 - [resources](resources.html)
