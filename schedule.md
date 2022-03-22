@@ -22,8 +22,8 @@ description: Schedule and readings for BMI 882, Biomedical data science scholarl
 | 15,17 Mar   |    | **No class** (spring break) |
 | 22 Mar       |    | Prdm9: [Myers et al.](https://doi.org/10.1126/science.1182363) [![pdf logo](icons/pdf-icon.png)](https://science.sciencemag.org/content/327/5967/876.full.pdf), [Parvanov et al.](https://doi.org/10.1126/science.1181495) [![pdf logo](icons/pdf-icon.png)](https://science.sciencemag.org/content/sci/327/5967/835.full.pdf), [Baudat et al.](https://doi.org/10.1126/science.1183439) [![pdf logo](icons/pdf-icon.png)](https://science.sciencemag.org/content/327/5967/836.full.pdf), [Cheung et al. (2010)](https://doi.org/10.1126/science.1187155) [![pdf logo](icons/pdf-icon.png)](https://science.sciencemag.org/content/sci/327/5967/791.full.pdf)
 | 24 Mar       |    | **No class** |
-| 29 Mar      |    | Fine-mapping of a gene: [Benzer (1955)](https://doi.org/10.1073/pnas.41.6.344) [![pdf logo](icons/pdf-icon.png)](https://www.pnas.org/content/pnas/41/6/344.full.pdf)
-| 31 Mar      |    | Fine-mapping of a gene: [Benzer (1959)](https://doi.org/10.1073/pnas.45.11.1607) [![pdf logo](icons/pdf-icon.png)](https://www.pnas.org/content/pnas/45/11/1607.full.pdf)
+| 29 Mar      |    | Fine-mapping of a gene: [Benzer (1955)](https://doi.org/10.1073/pnas.41.6.344) [![pdf logo](icons/pdf-icon.png)](https://www.pnas.org/content/pnas/41/6/344.full.pdf), [Benzer (1959)](https://doi.org/10.1073/pnas.45.11.1607) [![pdf logo](icons/pdf-icon.png)](https://www.pnas.org/content/pnas/45/11/1607.full.pdf)
+| 31 Mar      |    | **No class** |
 | 5 Apr      |    | False discovery rates: [Benjamini and Hochberg (1995)](https://doi.org/10.1111/j.2517-6161.1995.tb02031.x) [![pdf logo](icons/pdf-icon.png)](http://bit.ly/32ovGFh)
 | 7 Apr       |    | **No class**        |
 | 12 Apr      |    | False discovery rates: [Storey and Tibshirani (2003)](https://doi.org/10.1073/pnas.1530509100) [![pdf logo](icons/pdf-icon.png)](https://www.pnas.org/content/pnas/100/16/9440.full.pdf)
