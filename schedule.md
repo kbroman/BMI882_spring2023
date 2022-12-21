@@ -15,7 +15,7 @@ description: Schedule and readings for BMI 882, Biomedical data science scholarl
 | 16 Feb      |    | No class |
 | 21 Feb       |    | The Duke Saga: [Baggerly & Coombes (2011)](https://academic.oup.com/clinchem/article/57/5/688/5621016) [![pdf logo](icons/pdf-icon.png)](https://academic.oup.com/clinchem/article-pdf/57/5/688/31736129/clinchem0688.pdf)
 | 23 Feb      |    | No class |
-| 28 Mar      |    | fMRI p-values: [Eklund et al. (2016)](https://doi.org/10.1073/pnas.1602413113) [![pdf logo](icons/pdf-icon.png)](https://www.pnas.org/content/pnas/113/28/7900.full.pdf) letters and reply [![pdf logo](icons/pdf-icon.png)](assets/eklund_disc.pdf)
+| 28 Feb      |    | fMRI p-values: [Eklund et al. (2016)](https://doi.org/10.1073/pnas.1602413113) [![pdf logo](icons/pdf-icon.png)](https://www.pnas.org/content/pnas/113/28/7900.full.pdf) letters and reply [![pdf logo](icons/pdf-icon.png)](assets/eklund_disc.pdf)
 | 2 Mar      |    | No class
 | 7 Mar      |    | Bootstrap in regression: [Freedman and Peters (1984)](https://www.jstor.org/stable/2288341) [![pdf logo](icons/pdf-icon.png)](assets/freedman_peters_1984.pdf)
 | 9 Mar      |    | No class |
