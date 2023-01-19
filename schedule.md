@@ -34,3 +34,7 @@ description: Schedule and readings for BMI 882, Biomedical data science scholarl
 | 27 Apr      |    | No class |
 | 2 May       |    | **TBD**      |
 | 4 May       |    | No class |
+
+---
+
+Readings available at [the course Canvas site](https://canvas.wisc.edu/courses/345137).
