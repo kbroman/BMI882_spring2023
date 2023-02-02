@@ -32,6 +32,3 @@ biomedical data.
 - [syllabus](syllabus.html)
 - [assignments](assignments.html)
 - [resources](resources.html)
-
-**<font color="tomato">Course meeting on 2023-01-31 via zoom</font>**
-(see link on [canvas site](https://canvas.wisc.edu/courses/345137))

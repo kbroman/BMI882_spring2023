@@ -8,7 +8,7 @@ description: Schedule and readings for BMI 882, Biomedical data science scholarl
 | Date    | &nbsp;&nbsp;&nbsp;&nbsp;   | Topic/Reading  |
 | :------ | -- | :----- |
 | 24,26 Jan      |    | No class |
-| 31 Jan      |    | Tidy data: [Wickham (2014)](https://doi.org/10.18637/jss.v059.i10) [![pdf logo](icons/pdf-icon.png)](https://www.jstatsoft.org/index.php/jss/article/view/v059i10/v59i10.pdf) (**meet via zoom; see link in [canvas](https://canvas.wisc.edu/courses/345137)**) |
+| 31 Jan      |    | Tidy data: [Wickham (2014)](https://doi.org/10.18637/jss.v059.i10) [![pdf logo](icons/pdf-icon.png)](https://www.jstatsoft.org/index.php/jss/article/view/v059i10/v59i10.pdf) |
 | 2 Feb     |    | No class |
 | 7,9 Feb   |    | 50 years of data science: [Donoho (2017)](https://doi.org/10.1080/10618600.2017.1384734) (w/ discussion: [![pdf logo](icons/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/blog/50_years_datasci_with_disc.pdf))
 | 14 Feb       |    | The Duke Saga: [Baggerly & Coombes (2009)](https://projecteuclid.org/euclid.aoas/1267453942) [![pdf logo](icons/pdf-icon.png)](https://projecteuclid.org/download/pdfview_1/euclid.aoas/1267453942)
