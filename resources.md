@@ -4,6 +4,11 @@ title: resources
 description: Resources for BMI 882, Biomedical data science scholarly literature
 ---
 
+### Benzer papers
+
+- [Video of Sydney Brenner talking about Seymour Benzer](https://youtu.be/PCfzc5ycAgM)
+
+
 ### Reproducibility
 
 - [Video of Keith Baggerly speaking about Reproducible Research in
