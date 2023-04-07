@@ -32,5 +32,3 @@ biomedical data.
 - [syllabus](syllabus.html)
 - [assignments](assignments.html)
 - [resources](resources.html)
-
-[**Homework 1 due 2023-03-09**](hw1.html)
