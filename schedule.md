@@ -33,8 +33,6 @@ description: Schedule and readings for BMI 882, Biomedical data science scholarl
 | 20 Apr      |    | No class        |
 | 25 Apr      |    | Batch effects: [Leek et al. (2010)](https://doi.org/10.1038/nrg2825) [![pdf logo](icons/pdf-icon.png)](https://www.nature.com/articles/nrg2825.pdf)
 | 27 Apr      |    | No class |
-| 2 May       |    | **TBD**      |
-| 4 May       |    | No class |
 
 ---
 
